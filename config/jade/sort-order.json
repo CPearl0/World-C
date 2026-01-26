@@ -12,6 +12,7 @@
   "ae2:pattern_provider": null,
   "ae2:power_storage": null,
   "corpse:corpse": null,
+  "ftbquests:barrier": null,
   "jade:block_face": null,
   "jade:block_properties": null,
   "jade:block_states": null,
@@ -78,5 +79,6 @@
   "minecraft:zombie_villager": null,
   "storagedrawers:main": null,
   "twilightforest:chiseled_bookshelf_spawner": null,
+  "twilightforest:drying_rack": null,
   "twilightforest:quest_ram_wool": null
 }
