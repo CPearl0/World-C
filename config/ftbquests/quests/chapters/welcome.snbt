@@ -1,0 +1,39 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "welcome"
+	group: ""
+	id: "2CF594D727734409"
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "17EC6739EFD14C2C"
+			tasks: [{
+				id: "6DD5135D6D745934"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17EC6739EFD14C2C"]
+			id: "1FB4E0857442B4DD"
+			tasks: [{
+				id: "7FC53C760FF366BD"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			id: "7F6B8215A10C279B"
+			tasks: [{
+				id: "79766CF05D896301"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+	]
+}

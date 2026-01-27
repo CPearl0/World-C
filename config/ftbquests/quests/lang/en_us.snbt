@@ -1,0 +1,20 @@
+{
+	chapter.0738A9BAD0F82248.title: "Pneumatic Era"
+	chapter.0B494EA11D21EFDD.title: "The Longest Day"
+	chapter.20E6D58E426F9B61.title: "Stellaris Era"
+	chapter.2CF594D727734409.title: "Welcome"
+	chapter.2E32D53DA8794E00.title: "Electric Era II"
+	chapter.3063155406CD3AB7.title: "Mechanical Era"
+	chapter.58369187E7749A22.title: "Electric Era I"
+	chapter.7BFF1F133D1A1F8A.title: "Electric Era III"
+	quest.17EC6739EFD14C2C.title: "Welcome to World C"
+	quest.1FB4E0857442B4DD.quest_desc: ["Otherwise you might get stuck!"]
+	quest.5048BF57EEEA70D8.quest_desc: ["It's convenient. You'll like it, I bet."]
+	quest.7F6B8215A10C279B.quest_desc: [
+		"I am CPearl."
+		"Feel free to contact me via GitHub, Discord or QQ."
+	]
+	task.6DD5135D6D745934.title: "Welcome"
+	task.79766CF05D896301.title: "Authors"
+	task.7FC53C760FF366BD.title: "Always follow the quest"
+}

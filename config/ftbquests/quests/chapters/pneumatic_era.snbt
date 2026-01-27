@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "pneumatic_era"
+	group: ""
+	id: "0738A9BAD0F82248"
+	order_index: 3
+	quest_links: [ ]
+	quests: [{
+		id: "77D3345FD13F552D"
+		tasks: [{
+			id: "1255757130EEB7B4"
+			item: { count: 1, id: "pneumaticcraft:ingot_iron_compressed" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

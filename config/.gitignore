@@ -1,3 +1,7 @@
 *
 !.gitignore
+
+!ftbquests
+!ftbquests/**
+
 !twilightforest-common.toml

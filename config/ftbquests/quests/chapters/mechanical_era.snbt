@@ -1,0 +1,19 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "mechanical_era"
+	group: ""
+	id: "3063155406CD3AB7"
+	order_index: 2
+	quest_links: [ ]
+	quests: [{
+		id: "1395DF737AA507FD"
+		tasks: [{
+			id: "758C640440B1E85F"
+			item: { count: 1, id: "create:andesite_alloy" }
+			type: "item"
+		}]
+		x: 0.0d
+		y: 0.0d
+	}]
+}

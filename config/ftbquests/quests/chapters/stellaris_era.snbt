@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "stellaris_era"
+	group: ""
+	id: "20E6D58E426F9B61"
+	order_index: 7
+	quest_links: [ ]
+	quests: [ ]
+}
