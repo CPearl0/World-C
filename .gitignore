@@ -31,7 +31,6 @@ natives-*/
 /config/fabric/
 /.vscode/
 /TrashSlotSaveState.json
-/config/sound_physics_remastered/
 /gtceu/
 /*.jar
 /*.json
@@ -40,14 +39,7 @@ natives-*/
 /log4j2.xml
 /resourcepacks/Minecraft-Mod-Language-Modpack-Converted-*.zip
 /icon.png
-/config/sound_physics_remastered/
 hmclversion.cfg
-/config/jei/ingredient-list-mod-sort-order.ini
-/config/oculus.properties
-/config/xaerominimap_entities.json
-/config/embeddium-fingerprint.json
-/config/embeddium-options.json
-/config/jei/world/local/bookmarks.ini
 /mods/.connector
 /mods/.index
 .probe
