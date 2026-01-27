@@ -1,0 +1,10 @@
+StartupEvents.modifyCreativeTab("energizedpower:main", event => {
+    event.remove([
+        "energizedpower:wooden_hammer",
+        "energizedpower:stone_hammer",
+        "energizedpower:iron_hammer",
+        "energizedpower:golden_hammer",
+        "energizedpower:diamond_hammer",
+        "energizedpower:netherite_hammer",
+    ]);
+});

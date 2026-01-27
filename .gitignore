@@ -45,3 +45,4 @@ hmclversion.cfg
 .probe
 .mixin.out
 command_history.txt
+.abnormal
