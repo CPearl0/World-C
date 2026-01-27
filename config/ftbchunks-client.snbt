@@ -133,38 +133,66 @@
 		# Default: true
 		entity_heads: true
 		entity_icon: {
-			"minecraft:slime": true
-			"minecraft:ocelot": true
-			"minecraft:armadillo": true
-			"minecraft:drowned": true
-			"minecraft:sheep": true
-			"minecraft:rabbit": true
-			"minecraft:parrot": true
-			"minecraft:witch": true
-			"minecraft:horse": true
-			"minecraft:cow": true
-			"minecraft:cod": false
-			"minecraft:spider": true
-			"minecraft:bee": true
 			"minecraft:creeper": true
-			"minecraft:dolphin": true
-			"minecraft:donkey": true
-			"minecraft:zombie": true
+			"minecraft:cod": false
+			"twilightforest:dwarf_rabbit": true
+			"twilightforest:hydra": true
 			"minecraft:turtle": true
-			"minecraft:tropical_fish": false
-			"minecraft:salmon": false
-			"minecraft:wolf": true
-			"minecraft:glow_squid": true
-			"minecraft:pig": true
-			"minecraft:villager": true
-			"minecraft:chicken": true
-			"minecraft:iron_golem": true
+			"minecraft:magma_cube": true
+			"twilightforest:rising_zombie": true
+			"minecraft:sheep": true
 			"minecraft:enderman": true
-			"minecraft:squid": true
-			"minecraft:skeleton": true
 			"minecraft:zombie_villager": true
-			"minecraft:bat": true
 			"minecraft:pufferfish": false
+			"twilightforest:squirrel": true
+			"twilightforest:bighorn_sheep": true
+			"twilightforest:lich": true
+			"minecraft:cave_spider": true
+			"minecraft:skeleton": true
+			"stellaris:alien_zombie": true
+			"minecraft:salmon": false
+			"twilightforest:boar": true
+			"minecraft:rabbit": true
+			"minecraft:ocelot": true
+			"minecraft:iron_golem": true
+			"twilightforest:slime_beetle": true
+			"minecraft:zombie": true
+			"twilightforest:tiny_bird": true
+			"twilightforest:raven": true
+			"twilightforest:kobold": true
+			"minecraft:cow": true
+			"minecraft:donkey": true
+			"twilightforest:naga": true
+			"minecraft:cat": true
+			"minecraft:wolf": true
+			"twilightforest:death_tome": true
+			"twilightforest:redcap": true
+			"stellaris:star_crawler": true
+			"twilightforest:pinch_beetle": true
+			"minecraft:parrot": true
+			"minecraft:villager": true
+			"twilightforest:deer": true
+			"minecraft:bat": true
+			"minecraft:armadillo": true
+			"minecraft:spider": true
+			"twilightforest:redcap_sapper": true
+			"minecraft:horse": true
+			"minecraft:chicken": true
+			"minecraft:drowned": true
+			"minecraft:pig": true
+			"minecraft:squid": true
+			"minecraft:dolphin": true
+			"twilightforest:fire_beetle": true
+			"minecraft:slime": true
+			"minecraft:glow_squid": true
+			"stellaris:martian_raptor": true
+			"minecraft:witch": true
+			"minecraft:tropical_fish": false
+			"twilightforest:minotaur": true
+			"twilightforest:swarm_spider": true
+			"twilightforest:maze_slime": true
+			"twilightforest:mosquito_swarm": true
+			"minecraft:bee": true
 		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
