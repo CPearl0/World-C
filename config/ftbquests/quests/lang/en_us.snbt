@@ -9,7 +9,12 @@
 	chapter.7BFF1F133D1A1F8A.title: "Electric Era III"
 	quest.17EC6739EFD14C2C.title: "Welcome to World C"
 	quest.1FB4E0857442B4DD.quest_desc: ["Otherwise you might get stuck!"]
+	quest.4CA204F8F24D2F2C.quest_desc: ["There are many other ways to activate the nether portal other than Flint and \"Steel\"."]
 	quest.5048BF57EEEA70D8.quest_desc: ["It's convenient. You'll like it, I bet."]
+	quest.5AC73F6423866844.title: "Basic materials"
+	quest.77CB16E7D9ECFF72.quest_desc: ["Very useful material!"]
+	quest.77D3345FD13F552D.quest_desc: ["Explosion is art."]
+	quest.7EA0632A6724CB33.quest_desc: ["Do you like blaze?"]
 	quest.7F6B8215A10C279B.quest_desc: [
 		"I am CPearl."
 		"Feel free to contact me via GitHub, Discord or QQ."

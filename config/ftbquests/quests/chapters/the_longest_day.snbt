@@ -6,25 +6,45 @@
 	id: "0B494EA11D21EFDD"
 	order_index: 1
 	quest_links: [ ]
-	quests: [{
-		dependencies: ["1FB4E0857442B4DD"]
-		icon: {
-			id: "crafting_on_a_stick:crafting_table"
+	quests: [
+		{
+			dependencies: ["1FB4E0857442B4DD"]
+			icon: {
+				id: "crafting_on_a_stick:crafting_table"
+			}
+			id: "5048BF57EEEA70D8"
+			tasks: [
+				{
+					id: "7E272B11717C6AFC"
+					item: { count: 1, id: "minecraft:crafting_table" }
+					type: "item"
+				}
+				{
+					id: "2CC1AFDE79768349"
+					item: { count: 1, id: "crafting_on_a_stick:crafting_table" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
 		}
-		id: "5048BF57EEEA70D8"
-		tasks: [
-			{
-				id: "7E272B11717C6AFC"
-				item: { count: 1, id: "minecraft:crafting_table" }
-				type: "item"
-			}
-			{
-				id: "2CC1AFDE79768349"
-				item: { count: 1, id: "crafting_on_a_stick:crafting_table" }
-				type: "item"
-			}
-		]
-		x: 0.0d
-		y: 0.0d
-	}]
+		{
+			dependencies: ["5048BF57EEEA70D8"]
+			id: "5AC73F6423866844"
+			tasks: [
+				{
+					id: "6C3D02422D9A9F96"
+					item: { count: 1, id: "minecraft:iron_ingot" }
+					type: "item"
+				}
+				{
+					id: "2B12D63F73A6554D"
+					item: { count: 1, id: "minecraft:coal" }
+					type: "item"
+				}
+			]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
 }
