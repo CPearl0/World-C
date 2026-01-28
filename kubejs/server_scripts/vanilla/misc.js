@@ -1,4 +1,10 @@
 ServerEvents.recipes(event => {
+    event.shaped("minecraft:bucket", [
+        "A A",
+        " A ",
+    ], {
+        A: "#c:plates/iron",
+    }).id("minecraft:bucket");
     event.shapeless("minecraft:flint_and_steel", [
         "#c:ingots/steel",
         "minecraft:flint",

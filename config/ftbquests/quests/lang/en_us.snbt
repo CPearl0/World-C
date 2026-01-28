@@ -1,17 +1,23 @@
 {
 	chapter.0738A9BAD0F82248.title: "Pneumatic Era"
+	chapter.09E208FDCA8AE63B.title: "Stellaris Era II"
 	chapter.0B494EA11D21EFDD.title: "The Longest Day"
-	chapter.20E6D58E426F9B61.title: "Stellaris Era"
+	chapter.20E6D58E426F9B61.title: "Stellaris Era I"
 	chapter.2CF594D727734409.title: "Welcome"
 	chapter.2E32D53DA8794E00.title: "Electric Era II"
 	chapter.3063155406CD3AB7.title: "Mechanical Era"
+	chapter.34FA26A80EDB4462.title: "The Revelation"
 	chapter.58369187E7749A22.title: "Electric Era I"
+	chapter.6AFE5B967F89FC71.title: "Stellaris Era III"
 	chapter.7BFF1F133D1A1F8A.title: "Electric Era III"
 	quest.17EC6739EFD14C2C.title: "Welcome to World C"
 	quest.1FB4E0857442B4DD.quest_desc: ["Otherwise you might get stuck!"]
+	quest.2787FCD3EF1DB61B.title: "Plastic"
+	quest.4C0AAA31D408CEB7.title: "Pressure Chamber!"
 	quest.4CA204F8F24D2F2C.quest_desc: ["There are many other ways to activate the nether portal other than Flint and \"Steel\"."]
 	quest.5048BF57EEEA70D8.quest_desc: ["It's convenient. You'll like it, I bet."]
-	quest.5AC73F6423866844.title: "Basic materials"
+	quest.5AC73F6423866844.title: "Basic Materials"
+	quest.775A8ACE632383F7.title: "Refinery!"
 	quest.77CB16E7D9ECFF72.quest_desc: ["Very useful material!"]
 	quest.77D3345FD13F552D.quest_desc: ["Explosion is art."]
 	quest.7EA0632A6724CB33.quest_desc: ["Do you like blaze?"]

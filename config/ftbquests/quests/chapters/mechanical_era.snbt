@@ -3,6 +3,9 @@
 	default_quest_shape: ""
 	filename: "mechanical_era"
 	group: ""
+	icon: {
+		id: "create:cogwheel"
+	}
 	id: "3063155406CD3AB7"
 	order_index: 2
 	quest_links: [ ]

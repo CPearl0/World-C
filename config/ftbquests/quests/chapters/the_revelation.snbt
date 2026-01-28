@@ -1,0 +1,10 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_revelation"
+	group: ""
+	id: "34FA26A80EDB4462"
+	order_index: 10
+	quest_links: [ ]
+	quests: [ ]
+}
