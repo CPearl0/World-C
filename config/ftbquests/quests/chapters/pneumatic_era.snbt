@@ -115,7 +115,7 @@
 			id: "4CAF2A272FD51CC8"
 			tasks: [{
 				id: "013AA7217C9C1C8A"
-				item: { count: 1, id: "pneumaticcraft:printed_circuit_board" }
+				item: { count: 1, id: "worldccore:circuit_board_gen_1" }
 				type: "item"
 			}]
 			x: 6.0d

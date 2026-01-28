@@ -6,5 +6,38 @@
 	id: "58369187E7749A22"
 	order_index: 4
 	quest_links: [ ]
-	quests: [ ]
+	quests: [
+		{
+			dependencies: ["4CAF2A272FD51CC8"]
+			icon: {
+				id: "worldccore:processing_unit_gen_1"
+			}
+			id: "03DD94691B10F4BD"
+			tasks: [
+				{
+					id: "308D2A31BB3AE189"
+					item: { count: 1, id: "worldccore:processing_unit_gen_1_press" }
+					type: "item"
+				}
+				{
+					id: "529EF5E26A2FFBDE"
+					item: { count: 1, id: "worldccore:processing_unit_gen_1" }
+					type: "item"
+				}
+			]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["03DD94691B10F4BD"]
+			id: "201D5C4757AB97F1"
+			tasks: [{
+				id: "49176BE61C743029"
+				item: { count: 1, id: "worldccore:processor_gen_1" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+	]
 }
